@@ -16,154 +16,153 @@ msgstr ""
 #: admin/qtx_configuration.php:853
 #, php-format
 msgid "It might be a good idea to review %smigration instructions%s, if you have not yet done so."
-msgstr ""
+msgstr "Estus bona ideo zorge legi la %sinstrukciojn pri la migrado%s, se vi ne jam faris."
 
 #: admin/qtx_activation_hook.php:83
 #, php-format
 msgid "Activation of plugin %s deactivated plugin %s since they cannot run simultaneously."
-msgstr ""
+msgstr "La aktivigo de kromprogramo %s malaktivigis la kromprogramon %s, ĉar ili ne povas samtempe funkcii."
 
 #: admin/qtx_activation_hook.php:85
 #, php-format
 msgid "The compatible settings from %s have been imported to %s. Further tuning, import, export and reset of options can be done at Settings/Languages configuration page, once %s is running.%sContinue%s"
-msgstr ""
+msgstr "La retrokongruaj agordoj ('compatibility settings') de %s estas importitaj de %s. Plua agordado, importo, eksporto, ktp. fariĝas nun ĉe la paĝo Agordo/Lingvoj, post kiam %s ekfunkcios.%sBone%s"
 
 #: admin/qtx_activation_hook.php:87
 #, php-format
 msgid "You may import/export compatible settings from %s to %s on Settings/Languages configuration page, once %s is running.%sContinue%s"
-msgstr ""
+msgstr "Vi povas importi/eksporti kongruajn agordaĵojn de %s al %s ĉe la paĝo Agordo/Lingvoj, post kiam %s ekfunkcios.%sBone%s"
 
 #: admin/qtx_activation_hook.php:222
 #, php-format
 msgid "%sError:%s plugin %s cannot run concurrently with plugin %s. You may import and export compatible settings between %s and %s on Settings/<a href=\"%s\">Languages</a> configuration page. Then you have to deactivate one of the plugins to continue."
-msgstr ""
+msgstr "%sEraro:%s la kromprogramo %s ne povas funkcii samtempe kun %s. Vi povas importi/eksporti kongruajn agordaĵojn de %s al %s ĉe la paĝo Agordo/<a href=\"%s\">Lingvoj</a>. Tiam vi nepre devos malaktivigi unu el la kromprogramoj."
 
 #: admin/qtx_activation_hook.php:227 admin/qtx_activation_hook.php:229
 #, php-format
 msgid "Deactivate %s"
-msgstr ""
+msgstr "Malaktivigi %s"
 
 #: admin/qtx_activation_hook.php:268
 #, php-format
 msgid "Plugin %s may be integrated with multilingual plugin %s with a help of plugin %s."
-msgstr ""
+msgstr "Kromprogramo %s povas kunfunkcii kun la multlingviga kromprogramo %s kun la helpo de kromprogramo %s."
 
 #: admin/qtx_activation_hook.php:270
 msgid "Please, press an appropriate button below."
-msgstr ""
+msgstr "Bonvolu premi taŭgan butonon ĉi-sube."
 
 #: admin/qtx_activation_hook.php:274
 #, php-format
 msgid "Activate plugin %s"
-msgstr ""
+msgstr "Aktivigi kromprogramon %s"
 
 #: admin/qtx_activation_hook.php:276
 #, php-format
 msgid "Install plugin %s"
-msgstr ""
+msgstr "Instali kromprogramon %s"
 
 #: admin/qtx_activation_hook.php:278
 msgid "I am aware of that, dismiss this message."
-msgstr ""
+msgstr "Mi scias pri tio, forigi tiun ĉi mesaĝon."
 
 #: admin/qtx_activation_hook.php:328
 #, php-format
 msgid "Thank you for using %s plugin!"
-msgstr ""
+msgstr "Dankon pro via uzo de la kromprogramo %s!"
 
 #: admin/qtx_activation_hook.php:330
 #, php-format
 msgid "Please, help us to make a decision on \"%s\" feature, press the button below."
-msgstr ""
+msgstr "Bonvolu helpi nin decidi pri la funkcio \"%s\". Premu la butonon ĉi-sube."
 
 #: admin/qtx_activation_hook.php:330 admin/qtx_activation_hook.php:332
 #: qtranslate_services.php:787
 msgid "Translation Service"
-msgstr ""
+msgstr "Traduka Servo"
 
 #: admin/qtx_activation_hook.php:332
 #, php-format
 msgid "Survey on \"%s\" feature"
-msgstr ""
+msgstr "Demandilo pri la funkcio \"%s\""
 
 #: admin/qtx_activation_hook.php:333 admin/qtx_activation_hook.php:367
 msgid "I have already done it, dismiss this message."
-msgstr ""
+msgstr "Mi jam respondis; forigi tiun ĉi mesaĝon."
 
 #: admin/qtx_activation_hook.php:365
 #, php-format
 msgid "The latest version of plugin %s has a number of new options, for example, %s, which may change the look of some pages. Please, review the help text of new options on %sconfiguration page%s."
-msgstr ""
+msgstr "La plej lasta versio de la kromprogramo %s havas kelkajn novajn eblojn, ekz. %s, kiuj eventuale ŝanĝos la aspekton de kelkaj paĝoj. Bonvolu legi la helptekston pri la novaj ebloj ĉe la %skonfigura paĝo%s."
 
 #: admin/qtx_admin_utils.php:146
 msgid "Database has been converted to square bracket format."
-msgstr ""
+msgstr "Datumbazo nun estas konvertita al la nova [...] formato."
 
 #: admin/qtx_admin_utils.php:146 admin/qtx_admin_utils.php:148
 msgid "Note: custom entries are not touched."
-msgstr ""
+msgstr "Notu: propraj eroj ne estas ŝanĝitaj."
 
 #: admin/qtx_admin_utils.php:148
 msgid "Database has been converted to legacy dual-tag format."
-msgstr ""
+msgstr "Datumbazo nun estas konvertita por uzi kaj la novan kaj la malnovan formatojn."
 
 #: admin/qtx_admin_utils.php:406
 msgctxt "Language Code"
 msgid "Code"
-msgstr ""
+msgstr "Kodo"
 
 #: admin/qtx_admin_utils.php:407 admin/qtx_configuration.php:552
 #: admin/qtx_configuration.php:575 qtranslate_frontend.php:168
 #: qtranslate_frontend.php:195
 msgid "Flag"
-msgstr ""
+msgstr "Flago"
 
 #: admin/qtx_admin_utils.php:408 admin/qtx_configuration.php:593
 msgid "Name"
-msgstr ""
+msgstr "Nomo"
 
 #: admin/qtx_admin_utils.php:409 qtranslate_services.php:383
 msgid "Action"
-msgstr ""
+msgstr "Ago"
 
 #: admin/qtx_admin_utils.php:410 admin/qtx_configuration.php:1414
 #: admin/qtx_configuration.php:1440
 msgid "Edit"
-msgstr ""
+msgstr "Redakti"
 
 #: admin/qtx_admin_utils.php:411
 msgid "Stored"
-msgstr ""
+msgstr "Konservi"
 
 #: admin/qtx_admin_utils.php:422 admin/qtx_configuration.php:539
 #: admin/qtx_configuration.php:1397
 msgid "Languages"
-msgstr "Lingvoj "
+msgstr "Lingvoj"
 
 #: admin/qtx_configuration.php:539
 msgid "Language Management"
 msgstr "Lingvomastrumado"
 
 #: admin/qtx_configuration.php:547
-#, fuzzy
 msgid "Language Code"
-msgstr "Lingvo"
+msgstr "Lingvokodo"
 
 #: admin/qtx_configuration.php:549
 msgid "2-Letter <a href=\"http://www.w3.org/WAI/ER/IG/ert/iso639.htm#2letter\">ISO Language Code</a> for the Language you want to insert. (Example: en)"
-msgstr ""
+msgstr "2-litera <a href=\"http://www.w3.org/WAI/ER/IG/ert/iso639.htm#2letter\">ISO-lingvokodo</a> por la aldonota lingvo (ekz. eo)"
 
 #: admin/qtx_configuration.php:578
 msgid "Incorrect Flag Image Path! Please correct it!"
-msgstr ""
+msgstr "Malĝusta vojprefikso por la bildo — bonvolu ĝustigi ĝin!"
 
 #: admin/qtx_configuration.php:581
 msgid "Choose the corresponding country flag for language. (Example: gb.png)"
-msgstr ""
+msgstr "Elektu taŭgan flagon por tiu lingvo (ekz. eo.png)"
 
 #: admin/qtx_configuration.php:595
 msgid "The Name of the language, which will be displayed on the site. (Example: English)"
-msgstr "La nomo de la lingvo, kiu estas montrota en la retejo (ekz. Esperanto)"
+msgstr "La nomo de la lingvo, kiu vidiĝos en la retejo (ekz. Esperanto)"
 
 #: admin/qtx_configuration.php:598
 msgid "Locale"
@@ -175,23 +174,23 @@ msgstr "PHP kaj Wordpress por tiu lingvo (ekz. eo)"
 
 #: admin/qtx_configuration.php:602
 msgid "You will need to install the .mo file for this language."
-msgstr ""
+msgstr "Vi devos instali la .mo-dosieron por tiu lingvo."
 
 #: admin/qtx_configuration.php:606
 msgid "Date Format"
-msgstr ""
+msgstr "Dat-formato"
 
 #: admin/qtx_configuration.php:608
 msgid "Depending on your Date / Time Conversion Mode, you can either enter a <a href=\"http://www.php.net/manual/function.strftime.php\">strftime</a> (use %q for day suffix (st,nd,rd,th)) or <a href=\"http://www.php.net/manual/function.date.php\">date</a> format. This field is optional. (Example: %A %B %e%q, %Y)"
-msgstr ""
+msgstr "Depende de via elektita modo de Konvertado de Datoj/Horoj, vi povas tajpi formaton laŭ <a href=\"http://www.php.net/manual/function.strftime.php\">strftime-</a> aŭ <a href=\"http://www.php.net/manual/function.date.php\">date-</a>stilo. Tio ne estas deviga. (Ekzemple: %A %B %e%q, %Y)"
 
 #: admin/qtx_configuration.php:611
 msgid "Time Format"
-msgstr ""
+msgstr "Hor-formato"
 
 #: admin/qtx_configuration.php:613
 msgid "Depending on your Date / Time Conversion Mode, you can either enter a <a href=\"http://www.php.net/manual/function.strftime.php\">strftime</a> or <a href=\"http://www.php.net/manual/function.date.php\">date</a> format. This field is optional. (Example: %I:%M %p)"
-msgstr ""
+msgstr "Depende de via elektita modo de Konvertado de Datoj/Horoj, vi povas tajpi formaton laŭ <a href=\"http://www.php.net/manual/function.strftime.php\">strftime-</a> aŭ <a href=\"http://www.php.net/manual/function.date.php\">date-</a>stilo. Tio ne estas deviga. (Ekzemple: %I:%M %p)"
 
 #: admin/qtx_configuration.php:616
 msgid "Not Available Message"
